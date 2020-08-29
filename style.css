@@ -1,3 +1,7 @@
-#Card {
+.Card {
     border: 1px solid;
+}
+
+img {
+    width: 125px;
 }
